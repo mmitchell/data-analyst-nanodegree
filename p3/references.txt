@@ -1,0 +1,4 @@
+http://wiki.openstreetmap.org/wiki/Elements
+http://wiki.openstreetmap.org/wiki/Node
+http://wiki.openstreetmap.org/wiki/Way
+https://docs.mongodb.org/manual/reference/

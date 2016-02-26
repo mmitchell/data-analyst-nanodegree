@@ -1,0 +1,16 @@
+Link to area on OpenStreetMap: www.openstreetmap.org/?bbox=-86.485,39.454,-85.746,40.134
+Link to download on MapZen (taken 13 February 2016 at 11:50 UTC): https://s3.amazonaws.com/metro-extracts.mapzen.com/indianapolis_indiana.osm.bz2
+
+Area Bounding box:
+"indianapolis_indiana": {
+    "bbox": {
+        "top": "40.134",
+        "left": "-86.485",
+        "bottom": "39.454",
+        "right": "-85.746"
+    }
+}
+
+Description: This area encompasses the city of Indianpolis, Indiana.
+
+Reasoning: This city was chosen because it is the authors hometown.
